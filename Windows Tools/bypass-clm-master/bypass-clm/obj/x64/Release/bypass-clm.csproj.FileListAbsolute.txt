@@ -1,0 +1,8 @@
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\bin\x64\Release\bypass-clm.exe.config
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\bin\x64\Release\bypass-clm.exe
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\bin\x64\Release\bypass-clm.pdb
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\obj\x64\Release\bypass-clm.csproj.AssemblyReference.cache
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\obj\x64\Release\bypass-clm.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\obj\x64\Release\bypass-clm.csproj.CoreCompileInputs.cache
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\obj\x64\Release\bypass-clm.exe
+\\192.168.0.107\visualstudio\OSEP-2023-Solution\Tools\bypass-clm-master\bypass-clm\obj\x64\Release\bypass-clm.pdb
